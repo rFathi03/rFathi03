@@ -11,8 +11,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/roaa-fathi-b0971b24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roaa-fathi-b0971b24a/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/roaa_fathi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="roaa_fathi03" height="30" width="40" /></a>
 <a href="https://discord.gg/rfathi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rfathi03" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Codeforces Profile:</h3>
+<p align="left">
+<a href="https://codeforces.com/profile/roaa_fathi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="roaa_fathi03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,6 +35,6 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rfathi03&show_icons=true&locale=en&layout=compact" alt="rfathi03" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rfathi03&show_icons=true&locale=en" alt="rfathi03" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rfathi03&show_icons=true&locale=en&layout=compact" alt="rfathi03" /></p>
