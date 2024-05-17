@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **roaafnada2003@gmail.com**
 
-- :computer: I'm currently open for a new internship opportunity, [My CV](https://drive.google.com/drive/folders/1LWXIVJ0gSr3xTaKgFodaACk4v5axOlUN)
+- :computer: I'm currently open for a new internship opportunity, [My CV](https://drive.google.com/drive/folders/1LWXIVJ0gSr3xTaKgFodaACk4v5axOlUN?usp=sharing)
 
 <h3 align="left">Connect Me</h3>
 <p align="left">
