@@ -8,18 +8,20 @@
 
 - 📫 How to reach me **roaafnada2003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- :computer: I'm currently open for a new internship opportunity, [My CV](https://drive.google.com/drive/folders/1LWXIVJ0gSr3xTaKgFodaACk4v5axOlUN)
+
+<h3 align="left">Connect Me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/roaa-fathi-b0971b24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roaa-fathi-b0971b24a/" height="30" width="40" /></a>
 <a href="https://discord.gg/rfathi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rfathi03" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Codeforces Profile:</h3>
+<h3 align="left">Codeforces Profile</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/roaa_fathi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="roaa_fathi03" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
